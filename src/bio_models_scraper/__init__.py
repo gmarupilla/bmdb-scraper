@@ -1,0 +1,1 @@
+from .bio_models_info_scraper import BioModelsInfoScraper
